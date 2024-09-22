@@ -4,10 +4,12 @@ local servers = {
 	-- "html",
 	-- "tsserver",
 	"pyright",
-	-- "bashls",
+	"bashls",
 	"jsonls",
-	-- "yamlls",
-    "clangd"
+	"yamlls",
+    "clangd",
+    "zls",
+    "rust",
 }
 
 local settings = {
